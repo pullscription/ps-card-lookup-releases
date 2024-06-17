@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Pullscription Card Lookup</title>
+        <item>
+            <title>1.1.1</title>
+            <pubDate>Sun, 16 Jun 2024 18:06:58 -0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/pullscription/ps-card-lookup-releases/releases/download/prod/PullscriptionCardLookup.zip" length="2541369" type="application/octet-stream" sparkle:edSignature="xG+d+dbJth5vlcDsc2gneOELEryT2N7v/GL7rlSJ6hWVG1Rpsc0la9SWpBoTN4pk2nZdmhsOmGx62kxVnOEKBg=="/>
+        </item>
+    </channel>
+</rss>
