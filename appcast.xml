@@ -5,6 +5,15 @@
         <link>https://github.com/pullscription/ps-card-lookup-releases/releases</link>
         <description>Updates for Pullscription Card Lookup</description>
         <language>en</language>
+
+        <item>
+            <title>Version 1.1.4</title>
+            <pubDate>Sun, 20 Oct 2024 18:48:02 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://pullscription.github.io/ps-card-lookup-releases/Pullscription%20Card%20Lookup114.zip" length="2543889" type="application/octet-stream" sparkle:edSignature="fXyXiPzGFp4vJlN8CYXSyYi32Vk3bHqGZDtn1FSS1jIz1Y8eUHYVT5yzeQIfsWr1oMaVO3/XEjfR6WINwpkKDg=="/>
+        </item>
         
         <item>
             <title>Version 1.1.2</title>
