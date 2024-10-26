@@ -9,7 +9,7 @@
             <title>Version 1.1.1</title>
             <pubDate>Sun, 16 Jun 2024 17:56:16 -0700</pubDate>
             <sparkle:releaseNotesLink>https://github.com/pullscription/ps-card-lookup-releases/releases/tag/prod</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/pullscription/ps-card-lookup-releases/releases/download/prod/PullscriptionCardLookup.zip" length="2541024" type="application/octet-stream" sparkle:version="2" sparkle:shortVersionString="1.1.1" sparkle:minimumSystemVersion="14.0" sparkle:edSignature="43RFXH6vquVyaXyLiNa3YQe5zmp7+JBoP1fIP3G9s0n4MP2CmyfqgCwtXIM5891oXUGvh41QI6wjkxbHgpgiDA=="/>
+            <enclosure url="https://github.com/pullscription/ps-card-lookup-releases/releases/download/prod/PullscriptionCardLookup.zip" length="2541024" type="application/octet-stream" sparkle:version="1" sparkle:shortVersionString="1.1.1" sparkle:minimumSystemVersion="14.0" sparkle:edSignature="43RFXH6vquVyaXyLiNa3YQe5zmp7+JBoP1fIP3G9s0n4MP2CmyfqgCwtXIM5891oXUGvh41QI6wjkxbHgpgiDA=="/>
         </item>
                 <item>
             <title>Version 1.1.2</title>
@@ -20,7 +20,7 @@
                 <item>
             <title>Version 1.1.4</title>
             <pubDate>Sun, 20 Oct 2024 18:48:02 -0700</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://pullscription.github.io/ps-card-lookup-releases/Pullscription%20Card%20Lookup114.zip" length="2543889" type="application/octet-stream" sparkle:edSignature="fXyXiPzGFp4vJlN8CYXSyYi32Vk3bHqGZDtn1FSS1jIz1Y8eUHYVT5yzeQIfsWr1oMaVO3/XEjfR6WINwpkKDg=="/>
@@ -28,7 +28,7 @@
                 <item>
             <title>Version 1.1.5</title>
             <pubDate>Tue, 22 Oct 2024 18:49:08 -0700</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://pullscription.github.io/ps-card-lookup-releases/Pullscription%20Card%20Lookup115.zip" length="2546655" type="application/octet-stream" sparkle:edSignature="dvCK37zG86M0fRY98GOmmOO/LvSVH5hHNKo+ptS4MKcYbS3ylsT7AjaOFOLoeakIcClYic9V19tjBAwz3CSuDw=="/>
