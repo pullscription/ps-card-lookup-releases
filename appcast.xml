@@ -41,5 +41,13 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://pullscription.github.io/ps-card-lookup-releases/Pullscription%20Card%20Lookup116.zip" length="2582732" type="application/octet-stream" sparkle:edSignature="UUVx2jsT60/QUrxeRavbn99WmrnokrQPCjhluOEcdWubGo1v+qtW8gQFPhP6i8ordEPfN1JjPWaLIxeL+7O2Dg=="/>
         </item>
+        <item>
+            <title>1.1.7</title>
+            <pubDate>Tue, 29 Oct 2024 18:02:01 -0700</pubDate>
+            <sparkle:version>1.1.7</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://pullscription.github.io/ps-card-lookup-releases/Pullscription%20Card%20Lookup117.zip" length="2583024" type="application/octet-stream" sparkle:edSignature="je882ZMm37RGmYKj7qtV+v2lq7BN6wnEzYflVnGwBREp1rE658dqukWN1/q2pRRHYxMGvcwHJxDz87vZhMybCA=="/>
+        </item>
     </channel>
 </rss>
