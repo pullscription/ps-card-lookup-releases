@@ -55,7 +55,7 @@
             <sparkle:version>130</sparkle:version>
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://pullscription.github.io/ps-card-lookup-releases/Pullscription%20Card%20Lookup130.zip" length="2587517" type="application/octet-stream" sparkle:edSignature="OpytXFMngc6iuXMxpEOk6AAo2OMbDGJTDdsNVQYe4v23I7cmB0rXFxlkx2mpd2+F+y+8D8wR6BtvUFMJH/d2Cw=="/>
+            <enclosure url="https://github.com/pullscription/ps-card-lookup-releases/releases/download/v1.3.0/Pullscription.Card.Lookup130.zip" length="2587517" type="application/octet-stream" sparkle:edSignature="OpytXFMngc6iuXMxpEOk6AAo2OMbDGJTDdsNVQYe4v23I7cmB0rXFxlkx2mpd2+F+y+8D8wR6BtvUFMJH/d2Cw=="/>
         </item>
     </channel>
 </rss>
